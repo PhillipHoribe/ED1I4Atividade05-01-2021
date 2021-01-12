@@ -1,0 +1,13 @@
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.exe
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.deps.json
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.runtimeconfig.json
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.runtimeconfig.dev.json
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.dll
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\bin\Debug\netcoreapp3.1\ProjMedicamento.pdb
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.csprojAssemblyReference.cache
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.AssemblyInfoInputs.cache
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.AssemblyInfo.cs
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.csproj.CoreCompileInputs.cache
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.dll
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.pdb
+C:\Users\Philc\Desktop\Ed\ProjMedicamento\ProjMedicamento\obj\Debug\netcoreapp3.1\ProjMedicamento.genruntimeconfig.cache
